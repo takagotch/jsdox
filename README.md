@@ -1,6 +1,6 @@
 ### jsdox
 ---
-https://devdocs.io/
+https://github.com/sutoiku/jsdox
 
 ```
 ```
